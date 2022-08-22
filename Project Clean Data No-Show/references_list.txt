@@ -1,0 +1,5 @@
+1. https://stackoverflow.com/questions/20616754/pandas-how-to-display-minor-grid-lines-on-x-axis-in-pd-dataframe-plot #learned the usage of grid= True
+2. https://stackoverflow.com/questions/12608788/changing-the-tick-frequency-on-x-or-y-axis-in-matplotlib # LEarned the usage of xticks frequency
+3. https://stackoverflow.com/questions/70382844/how-to-subplot-multiple-kde-distributions-multiple-categories-in-one-column #Not used but tried to make a distribution for my first question, failed
+4. https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.GroupBy.first.html #brushing up on groupby method
+5. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.kde.html #Not used in code but tried to make one
