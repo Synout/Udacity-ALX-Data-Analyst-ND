@@ -1,10 +1,22 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# PISA Student Survey Dataset Investigation
+## by Mohamed E. Rahmani
 
 
 ## Dataset
 
 > Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+
+
+todo: 
+
+-what is PISA student survey?
+
+-what is the shape of the data?
+
+-what are we going to focus on? why?
+
+-add a table of contents
+
 
 
 ## Summary of Findings
